@@ -13,7 +13,7 @@
 
 ## Featured project
 
-### [CN Investment Banking Skills](https://github.com/Qiushen-first/cn-investment-banking-skills)
+### [CN Investment Banking Skills](../cn-investment-banking-skills)
 
 An open-source collection of Agent Skills organized around the five-stage lifecycle of a Chinese IPO project.
 
@@ -22,10 +22,6 @@ An open-source collection of Agent Skills organized around the five-stage lifecy
 - China-focused source and regulatory workflow layer
 - Synthetic five-stage examples and deterministic tests
 - Public-safe design with no live transaction data
-
-```bash
-npx skills add https://github.com/Qiushen-first/cn-investment-banking-skills --skill cn-ib-ipo-workflow
-```
 
 ## Working principles
 
