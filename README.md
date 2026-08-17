@@ -13,7 +13,7 @@
 
 ## Featured project
 
-### [CN Investment Banking Skills](../cn-investment-banking-skills)
+### CN Investment Banking Skills
 
 An open-source collection of Agent Skills organized around the five-stage lifecycle of a Chinese IPO project.
 
